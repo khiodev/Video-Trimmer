@@ -1,6 +1,9 @@
 # About Video Trimmer
 Video Trimmer a program with a minimilistic UI made by khiodev is a program which allows you to quickly trim videos without having to open a video editing software.
 
+# Installation
+Open the video-trimmer.zip file then extract video-trimmer folder, open it then finally run the video-trimmer.exe
+
 # Usage
 This program is insanly easy to use, just press on the "Browse A Video" button to select a video then set the minute and second of the begging of the cut do the same for the end of the cut (For example I have a video where I want to trim the video from 1:02 to 1:40 I would enter 1 in the begging minute box and I would add 2 to the begging second box and do the same for end of the cut.)
 
