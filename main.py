@@ -10,7 +10,7 @@ from moviepy.editor import *
 
 root = ctk.CTk()
 root.geometry("400x750")
-root.title("Video Timmer")
+root.title("Video Trimmer")
 root.minsize(400,750)
 root.configure(fg_color="#181818")
 
